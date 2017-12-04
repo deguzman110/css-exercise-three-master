@@ -36,13 +36,22 @@ nav {
 }
 
 .restaurant-list {
+  background-color: black;
   padding-top: 50px;
   width: 100%;
+}
+
+.arrow-left {
+  display:inline-block;
+  float: left;
+  font-size: 0.65em;
+  padding: 5px;
 }
 
 .arrow {
   display: inline-block;
   float: right;
+  font-size: 0.65em;
   padding: 10px;
 }
 
@@ -55,4 +64,3 @@ nav {
 .location:hover {
   background-color: #ABA9AB;
 }
-# style_revision
